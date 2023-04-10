@@ -82,11 +82,11 @@ function Projects() {
                                 Deploy <ArrowRightCircle size={25} />
                               </button>
                             </a>
-                            <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+                            {/* <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
                               <button className={styles.buttonCard}>
                                 Video <ArrowRightCircle size={25} />
                               </button>
-                            </a>
+                            </a> */}
                           </div>
                         </div>
                       </div>

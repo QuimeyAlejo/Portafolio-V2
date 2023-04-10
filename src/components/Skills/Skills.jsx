@@ -67,7 +67,7 @@ function Skills() {
                             </div>
                             <div className={styles.image}>
                                 <img className={styles.imgCar} src={logobootstrap} alt="logo bootstrap" />
-                                <h5>Bootsrap</h5>
+                                <h5>Bootstrap</h5>
                             </div>
                             <div className={styles.image}>
                                 <img className={styles.imgCar} src={logonode} alt="logo node" />
