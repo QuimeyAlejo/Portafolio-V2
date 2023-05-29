@@ -6,7 +6,9 @@ import logo from '../../assets/img/logo.png';
 import logogith from '../../assets/img/github.svg'
 import logolink from '../../assets/img/linkedin.svg'
 import logomail from '../../assets/img/envelope.svg'
-import CV from '../Curriculum/QuimeyAlejoDeveloper.pdf'
+import CV from '../Curriculum/QuimeyAlejoLopezDeveloper.pdf'
+
+
 
 function NavBar() {
 
