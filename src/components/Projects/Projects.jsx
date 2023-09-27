@@ -6,6 +6,7 @@ import colorSharp2 from "../../assets/img/color-sharp2.png";
 import styles from "./projects.module.css";
 import imgproj1 from "../../assets/img/pokewiki.png";
 import imgproj2 from "../../assets/img/footshop.png";
+import imgproj3 from "../../assets/img/Captura2.PNG";
 
 import { ArrowRightCircle } from "react-bootstrap-icons";
 
@@ -51,6 +52,33 @@ function Projects() {
                             <a href="https://github.com/QuimeyAlejo/Pokemon-PI">
                               <button className={styles.buttonCard}>
                                 Repo <ArrowRightCircle size={25} />
+                              </button>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                    </Col>
+                    <Col sm={6} md={4}>
+                      <div className={styles.projimgbx} data-aos="flip-up">
+                        <img
+                          src={imgproj3}
+                          alt="img card"
+                          className="img-fluid"
+                        />
+                        <div className={styles.projtxtx}>
+                          <h4>Ew Sublimados</h4>
+                          <span>
+                            "Ew Sublimados es una aplicación web que permite personalizar y comprar productos personalizados a través de sublimación, se implementó con JavaScript, React, Bootstrap, CSS y HTML"
+                          </span>
+                          <div>
+                            <a href="https://github.com/QuimeyAlejo/EwSublimados">
+                              <button className={styles.buttonCard}>
+                                Repo <ArrowRightCircle size={25} />
+                              </button>
+                            </a>
+                            <a href="https://ew-sublimados.vercel.app/">
+                              <button className={styles.buttonCard}>
+                                Deploy <ArrowRightCircle size={25} />
                               </button>
                             </a>
                           </div>
