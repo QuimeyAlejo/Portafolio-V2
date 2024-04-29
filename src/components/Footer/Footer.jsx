@@ -1,6 +1,6 @@
 import React from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
-import logo from '../../assets/img/logo.png';
+import logo from '../../assets/img/pngegg.png';
 import logogith from '../../assets/img/github.svg';
 import logolink from '../../assets/img/linkedin.svg';
 import logomail from '../../assets/img/envelope.svg'
@@ -19,9 +19,9 @@ function Footer() {
                     <div className='social-icon'>
                         <a href='https://github.com/QuimeyAlejo'> <img src={logogith} alt="logo gith" /> </a>
                         <a href='https://www.linkedin.com/in/quimey-alejo-lopez-199431202/'> <img src={logolink} alt="logo link" /> </a>
-                        <a href='mailto:qalopez2000@gmail.com'><img src={logomail} alt="logomail" /></a>
+                        <a href='devquimeyalopez@gmail.com'><img src={logomail} alt="logomail" /></a>
                     </div>
-                    <p>CopyRight 2022. All Right Reserved</p>
+                    <p>CopyRight 2024. All Right Reserved</p>
                 </Col>
             </Row>
         </Container>

@@ -4,9 +4,10 @@
 .banner{
     margin-top: -80px;
     padding: 260px 0 200px 0;
-    background-image: url(../../assets/img/5437630.jpg);
-    /* background-image: url(../../assets/img/banner-bg.png); */
-    /* background-image: url(https://img.freepik.com/vector-gratis/fondo-galaxia-realista_23-2148965897.jpg?w=996&t=st=1671127329~exp=1671127929~hmac=db75d7d99f8cba6df1bbc24728133180646ddbb984fffd64c320db0d157d8165); */
+    /* background-image: url(../../assets/img/5437630.jpg); */
+    /* background-image: url(../../assets/img/html.jpg); */
+    background-image: url(../../assets/img/3174286.jpg);
+      
     background-position: top center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -15,7 +16,7 @@
     font-weight: 700;
     letter-spacing: 0.8px;
     padding: 8px 10px;
-    background: linear-gradient(90.21deg, rgba(170, 54, 124, 0.5) -5.91%, rgba(74, 47, 189, 0.5) 111.58%);
+    background: linear-gradient(90.21deg, rgba(23, 75, 43, 0.5) -5.91%, rgba(6, 94, 53, 0.5) 111.58%);
     border: 1px solid rgba(255, 255, 255, 0.5);
     font-size: 20px;
     margin-bottom: 16px;
@@ -74,3 +75,12 @@
 .txt-rotate > .wrap {
     border-right: 0.08em solid #666;
 }
+
+.divbox{
+    
+        background: #151515;
+        border-radius: 25px;
+        text-align: center;
+        padding: 40px 25px;
+        margin-top: -20px;
+    }

@@ -46,7 +46,7 @@
     position: absolute;
     width: 0;
     height: 100%;
-    background: linear-gradient(90.21deg, #AA367C -5.91%, #4A2FBD 111.58%);
+    background: linear-gradient(90.21deg,rgba(255, 255, 255, 0.5));
     top: 0;
     left: 0;
     z-index: -1;
@@ -91,7 +91,7 @@ height: 420px;
 }
 .projimbgx::before {
     content: '';
-    background: linear-gradient(90.21deg, #AA367C -5.91%, #4A2FBD 111.58%);
+    background: linear-gradient(90.21deg,rgba(255, 255, 255, 0.5));
     opacity: 0.85;
     position: absolute;
     width: 100%;

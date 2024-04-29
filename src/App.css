@@ -42,7 +42,7 @@ nav.navbar {
   top: 0;
   z-index: 9999;
   transition: 0.32 ease-in-out;
-  background: linear-gradient(#c2628a, #53168b);
+  background: linear-gradient(#10ac1d, #070707);
 }
 nav.navbar.scrolled {
   padding: 0px 0;
@@ -233,7 +233,7 @@ nav.navbar .navbar-toggler[aria-expanded='true'] .navbar-toggler-icon {
 }
 
 .App-link {
-  color: #61dafb;
+  color: #599bad;
 }
 
 @keyframes App-logo-spin {

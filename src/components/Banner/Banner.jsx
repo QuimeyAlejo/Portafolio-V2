@@ -60,18 +60,17 @@ function Banner() {
                 Bienvenidos a mi Portafolio
               </span>
               <h1>
-                {"Hola, mi nombre es Quimey y soy "}
-                <span className={styles.wrap}>{text}</span>
+                {"Hola, mi nombre es Quimey "}
+                {/* <span className={styles.wrap}>{text}</span> */}
               </h1>
-              <p>
-                Mi objetivo principal es desarrollarme profesionalmente,
-                evolucionar en mi sector, enriquecer y aportar mis
-                conocimientos. Me destaco por saber trabajar en equipo,
-                adaptarme a cambios para la resolución de problemas, saber
-                escuchar e impulsar el trabajo individual y colectivo para poder
-                alcanzar el objetivo en común.{" "}
-              </p>
-              <a href='mailto:qalopez2000@gmail.com'>
+              <div className={styles.divbox}><p>
+             Soy estudiante de la Tecnicatura Universitaria en Programación en la UTN de Rosario. Además, he 
+completado un bootcamp de programación web donde adquirí sólidos fundamentos y habilidades en 
+lógica de programación. Mi pasión por la informática me impulsa a seguir ampliando mis 
+conocimientos y explorando diversas tecnologías y lenguajes de programación..{" "}
+              </p> </div>
+              
+              <a href='mailto:devquimeyalopez@gmail.com'>
                 <button>Conectemos</button>
               </a>
             </div>
