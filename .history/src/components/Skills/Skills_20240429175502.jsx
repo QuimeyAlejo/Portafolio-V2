@@ -137,7 +137,11 @@ function Skills() {
           </Col>
         </Row>
       </Container>
-    
+      {/* <img
+        className={styles.backgroundImageLeft}
+        src={colorSharp}
+        alt="colorsharp"
+      /> */}
     </section>
   );
 }
