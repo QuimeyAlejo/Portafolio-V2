@@ -2,7 +2,7 @@ import React, {useState, useEffect} from 'react';
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
-import logo from '../../assets/img/etiqueta2.png';
+import logo from '../../assets/img/etiqueta1.png';
 import logogith from '../../assets/img/github.svg'
 import logolink from '../../assets/img/linkedin.svg'
 import logomail from '../../assets/img/envelope.svg'
