@@ -14,8 +14,6 @@ import logopost from "../../assets/img/postgresql.png";
 import logoseq from "../../assets/img/sequelize.png";
 import colorSharp from "../../assets/img/color-sharp.png";
 import logoC from "../../assets/img/C.png";
-import logoPy from "../../assets/img/python.png"
-import logoMy from "../../assets/img/mysql.png"
 
 function Skills() {
   const responsive = {
@@ -69,22 +67,7 @@ function Skills() {
                   />
                   <h5>Node Js</h5>
                 </div>
-                <div className={styles.image}>
-                  <img
-                    className={styles.imgCar}
-                    src={logoPy}
-                    alt="logo sequelize"
-                  />
-                  <h5>Python</h5>
-                </div>
-                <div className={styles.image}>
-                  <img
-                    className={styles.imgCar}
-                    src={logoMy}
-                    alt="logo sequelize"
-                  />
-                  <h5>MySQL</h5>
-                </div>
+
               
                 <div className={styles.image}>
                   <img

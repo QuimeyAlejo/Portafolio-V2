@@ -6,7 +6,7 @@ import logo from '../../assets/img/etiqueta2.png';
 import logogith from '../../assets/img/github.svg'
 import logolink from '../../assets/img/linkedin.svg'
 import logomail from '../../assets/img/envelope.svg'
-import CV from '../Curriculum/DeveloperQuimeyFullStack-CV.pdf'
+import CV from '../Curriculum/DevQuimeyAlejoLopez--CV--.pdf'
  
 
 
